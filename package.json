@@ -1,0 +1,22 @@
+{
+  "name": "mern-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.10",
+    "nodemon": "^3.1.4"
+  }
+}
